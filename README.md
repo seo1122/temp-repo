@@ -1,5 +1,5 @@
 # temp-repo
-What I need to do after making a new repository
+What I need to do after making a new repository :
 
 1. Create a branch
 2. Commit a file
